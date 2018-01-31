@@ -15,6 +15,7 @@ def greeting(var1, var2)
 end
 
 def return_a_value
+  return "Nice"
 
 end
 
